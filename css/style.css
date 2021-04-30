@@ -85,5 +85,6 @@
 
       display: block;
       position: absolute;
+      align-content: center;
       bottom: 250px;
   }
